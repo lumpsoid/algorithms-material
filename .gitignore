@@ -1,1 +1,6 @@
 .vscode
+*.ipynb
+*.egg-info
+learning_materials/__pycache__
+learning_materials/design_patterns/__pycache__
+learning_materials/structures/__pycache__
